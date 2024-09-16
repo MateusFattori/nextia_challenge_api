@@ -1,4 +1,4 @@
-# nextia
+# NextIA
 
 ## Integrantes
 
