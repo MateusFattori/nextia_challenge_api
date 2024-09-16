@@ -14,7 +14,7 @@ Mateus Fattori RM:97904
 Na arquitetura monolítica, toda a lógica de negócios, manipulação de dados e APIs são implementadas em um único projeto ou serviço. Em vez de dividir a aplicação em vários serviços ou micro-serviços, toda a funcionalidade reside em uma única aplicação.
 A arquitetura monolítica é uma boa escolha para projetos menores ou médios onde a simplicidade e a coesão são mais importantes do que a escalabilidade e a flexibilidade de serviços independentes. Ela permite uma abordagem direta e eficiente para desenvolvimento e implantação.
 
-## design patterns utilizado
+## Design patterns utilizado
 
 # Padão Singleton 
 No contexto da sua aplicação, o padrão Singleton foi utilizado para o ConfigSettings. A ideia é garantir que as configurações sejam carregadas uma única vez e que a mesma instância de ConfigSettings seja utilizada em toda a aplicação.
