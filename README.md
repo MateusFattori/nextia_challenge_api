@@ -1,6 +1,6 @@
 # NextIA
 
-## Integrantes
+# Integrantes
 
 Bianca Barreto RM:551848
 
